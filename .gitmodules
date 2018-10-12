@@ -1,0 +1,8 @@
+[submodule "simple-a2c"]
+	path = simple-a2c
+	url = https://github.com/mathfac/simple-a2c
+	branch = master
+[submodule "simple-a3c"]
+	path = simple-a3c
+	url = https://github.com/mathfac/simple-a3c
+	branch = master
