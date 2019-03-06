@@ -24,7 +24,7 @@ continuous action [Pendulum](https://gym.openai.com/envs/Pendulum-v0/) games.
 
 * Python 3
 * Pytorch
-* Install requirements ``pip install -e .``
+* Install requirements ``pip3 install -r requirements.txt``
 
 
 ## Credits
